@@ -1,0 +1,16 @@
+.page-hero {
+    background-color: brown;
+    text-align: white;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.story img {
+    width: 300px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.open-hours {
+    /* background-color: #D4A84B; */
+}
